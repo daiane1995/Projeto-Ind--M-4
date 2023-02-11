@@ -2,10 +2,10 @@
 
 A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
-<h4> O que é para ser desenvolvido? <h4>
-Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
-- Existem outras entidades além dessas três?
-- Quais são os principais campos e tipos?
+ O que é para ser desenvolvido? <br>
+Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:<br>
+- Existem outras entidades além dessas três?<br>
+- Quais são os principais campos e tipos?<br>
 - Como essas entidades estão relacionadas?<br>
 
 
@@ -54,8 +54,8 @@ Os dois tipos mais importante são a Chave Primária e a Chave estrangeira.
 
 
 ⇨ Como essas entidades estão relacionadas? <br>
-As entidades estão relacionadas com as chaves estrageiras (FK), como podemos ver na imagem feita no Miro , em algumas entidades tem um atributo com "id_nomeDaEntidade", fazendo com que elas fiquem relacionadas.
+As entidades estão relacionadas com as chaves estrageiras (FK), como podemos ver na imagem feita no Miro , em algumas entidades tem um atributo com "id_nomeDaEntidade", fazendo com que elas fiquem relacionadas.<br>
 
 Ferramentas utilizadas nesse projeto:💻<br>
- Miro.com;
+ Miro.com;<br>
  VS Code.
