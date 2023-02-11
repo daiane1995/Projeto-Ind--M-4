@@ -30,7 +30,7 @@ Três entidades a mais (Unidades,Instrutor e Endereços), com essas entidades a 
 
 -Turmas: E por último a entidade Turmas, essa entidade é responsável por gerenciar as colunas id, nome, turno, alunosQuant, nome-cursos, modalidade_cursos e diasDasAulas_cursos, com essa entidade é possível saber a quantidade de alunos na turma X, e recebe três chaves estrangeira para saber qual curso é a turma X, quais são os dias de aulas e a modalidade do curso se é Presencial ou Ensino a Distância (EAD).<br>
 
-🗝 Por que algumas entidades estão relacionadas uma com as outras (FK, chave estrangeira)?<br>🗝
+🗝 Por que algumas entidades estão relacionadas uma com as outras (FK, chave estrangeira)?<br>
 
 Para o nosso banco de dados é fundamental ter elas, pois o relacionamento conseguimos responder algumas perguntas básicas, por exemplo:<br>
 Quantos cursos X tem na unidade Y?
