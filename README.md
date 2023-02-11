@@ -8,7 +8,6 @@ Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e respon
 - Quais são os principais campos e tipos?<br>
 - Como essas entidades estão relacionadas?<br>
 
-
 Abaixo apresento a imagem da modelagem:<br>
 
 <div align="center">
