@@ -15,8 +15,8 @@ Abaixo apresento a imagem da modelagem:<br>
   <img width="80%" src="https://github.com/daiane1995/Projeto-Ind--M-4/files/10713784/My.First.Board.1.pdf" />
 </div>
 
-<h2> Explicação para cada atributo de cada entidade. <h2>
-<br>
+Explicação para cada atributo de cada entidade.<br>
+
 Três entidades a mais (Unidades,Instrutor e Endereços), com essas entidades a mais podemos ter uma noção melhor, como?<br>
 
 Unidades: A entidade Unidades abrange todo o "universo" de todas as entidades, pois ela é mais importante, ela diz onde a instituição fica alocada mostrando com as colunas id (para pegar toda a linha), nome, bairro, estado cnpj e o tipo, a coluna tipo é para dizer se é a empresa Matriz ou Filial. <br>
