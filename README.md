@@ -11,7 +11,7 @@ Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e respon
 📊 Abaixo apresento a imagem da modelagem:<br>
 
 <div align="center">
-  <img width="80%" src="https://github.com/daiane1995/Projeto-Ind--M-4/files/10713784/My.First.Board.1.pdf" />
+  <img width="80%" src="https://user-images.githubusercontent.com/113690388/218263311-cde6a2ff-af05-4678-b2d4-0dbbbcefe561.png" />
 </div>
 
 Explicação para cada atributo de cada entidade.<br>
